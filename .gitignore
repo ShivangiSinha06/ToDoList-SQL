@@ -1,0 +1,12 @@
+# SQL Server Files
+*.ldf
+*.mdf
+*.ndf
+*.bak
+*.trn
+
+# Temporary files
+*.tmp
+
+#SQL script files
+*.sql
